@@ -1,0 +1,8 @@
+{
+  "name": "ai-journal",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
